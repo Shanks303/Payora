@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Payora",
-  description: "Modern banking platform for everyone",
+  description: "Pay, Transact, and Manage Money with Ease,Only on Payora",
   icons: {
     icon: "/icons/logo.svg",
   },
